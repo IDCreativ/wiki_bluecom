@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'WiKi - Blue Com',
+  title: 'WiKi Blue Com',
   tagline: 'Support & Tutoriels',
   url: 'https://crashtest.blue-com.fr/',
   baseUrl: '/wiki/',
